@@ -110,7 +110,7 @@ Healthcare-specific intelligent suggestions
 
 ## 👨‍💻 Author
 
-Chandru  
+Jeevitesh
 AI/ML Developer passionate about building intelligent real-world applications  
 
 ---
